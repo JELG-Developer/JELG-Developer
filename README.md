@@ -1,8 +1,8 @@
 <h2 align="left">¡Hola! 👋🏼 Me llamo José!</h2>
 
-<h3 align="left">👨🏻‍💻  Acerca de mí</h3>
+<h3 align="left">👨🏻‍💻 Acerca de mí</h3>
 
-<p align="left">Soy un Full Stack Developer y estudiante de Ingeniería de Sistemas.<br>Me apasiona el desarrollo con Java, Spring Boot y Angular, y utilizo SQL Server como base de datos. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. 🚀</p>
+<p align="left">Soy un desarrollador Full Stack y estudiante de Ingeniería de Sistemas.<br>Me apasiona el desarrollo con Java, Spring Boot y Angular, y utilizo SQL Server como base de datos. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. 🚀</p>
 
 <h3 align="left">🛠 Lenguaje y herramientas</h3>
 
