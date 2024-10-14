@@ -2,6 +2,8 @@
 
 <p align="left">Soy un Full Stack Developer y estudiante de Ingeniería de Sistemas.<br>Me apasiona el desarrollo con Java, Spring Boot y Angular, y utilizo SQL Server como base de datos. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. 🚀</p>
 
+### Mis habilidades
+
 <div align="left">
   <a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -59,6 +61,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
   </a>
 </div>
+
+### Contáctame
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joselimachi/">
