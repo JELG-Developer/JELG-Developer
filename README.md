@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
 </div>
 
-### 
+<h3 align="left">📲 Contáctame</h3> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joselimachi/">
