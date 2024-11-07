@@ -46,7 +46,7 @@
 
 <h3 align="left">📲 Contact me</h3> 
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/joselimachi/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -62,7 +62,7 @@
   <a href="https://t.me/super_07Z">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-</div>
+</p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JELG-Developer&" alt="JELG-Developer" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JELG-Developer&show_icons=true&locale=en&layout=compact" alt="JELG-Developer" /></p>
