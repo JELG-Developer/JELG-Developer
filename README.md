@@ -1,12 +1,12 @@
 ![Presentación](./presentacion.gif)
 
-<h2 align="left">¡Hola! 👋🏼 Me llamo José!</h2>
+<h2 align="left">¡Hello! 👋🏼 My name is José</h2>
 
-<h3 align="left">👨🏻‍💻 Acerca de mí</h3>
+<h3 align="left">👨🏻‍💻 About me</h3>
 
-<p align="left">Soy un desarrollador Full Stack y estudiante de Ingeniería de Sistemas.<br>Me apasiona el desarrollo con Java, Spring Boot y Angular, utilizo SQL Server como base de datos. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.</p>
+<p align="left">I am a Full Stack developer and Systems Engineering student. <br>Passionate developer with Java, Spring Boot, Angular, SQL Server. I am always looking to learn new technologies and improve my skills.</p>
 
-<h3 align="left">🛠 Lenguaje y herramientas</h3>
+<h3 align="left">🛠 Languages ​​and skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
 </div>
 
-<h3 align="left">📲 Contáctame</h3> 
+<h3 align="left">📲 Contact me</h3> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joselimachi/">
