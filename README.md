@@ -1,3 +1,5 @@
+![Presentación](./presentacion.gif)
+
 <h2 align="left">¡Hola! 👋🏼 Me llamo José!</h2>
 
 <h3 align="left">👨🏻‍💻 Acerca de mí</h3>
