@@ -65,6 +65,6 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 40px; flex-wrap: wrap;">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JELG-Developer&" alt="JELG-Developer" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JELG-Developer&show_icons=true&locale=en&layout=compact" alt="JELG-Developer" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JELG-Developer&" alt="JELG-Developer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JELG-Developer&show_icons=true&locale=en&layout=compact" alt="JELG-Developer" />
 </div>
