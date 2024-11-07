@@ -1,12 +1,10 @@
 ![Presentación](./presentacion.gif)
 
-<h2 align="left">¡Hello! 👋🏼 My name is José</h2>
-
-<h3 align="left">👨🏻‍💻 About me</h3>
+<h2 align="left">👨🏻‍💻 About me</h3>
 
 <p align="left">I am a Full Stack developer and Systems Engineering student. <br>Passionate developer with Java, Spring Boot, Angular, SQL Server. I am always looking to learn new technologies and improve my skills.</p>
 
-<h3 align="left">🛠 Languages ​​and skills</h3>
+<h2 align="left">🛠 Languages ​​and skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
